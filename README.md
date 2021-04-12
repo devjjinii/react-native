@@ -15,5 +15,8 @@
 * 실행
     * Android Emulator
         * https://docs.expo.io/workflow/android-studio-emulator/
+    * vi .bash_profile 
+        * SDK platform-tools 경로 설정
+        * source .bash_profile
     * iOS Simulator 
         * https://docs.expo.io/workflow/ios-simulator/
