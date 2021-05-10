@@ -20,3 +20,5 @@
         * source .bash_profile
     * iOS Simulator 
         * https://docs.expo.io/workflow/ios-simulator/
+
+* 터미널에서 npm start -> a (에뮬레이더 restart)
