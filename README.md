@@ -3,6 +3,9 @@
 * https://www.udemy.com/course/react-native-the-practical-guide/
     * Expo
         * https://expo.io/
+    * 도움이 되는 링크
+      * https://facebook.github.io/react-native/docs/getting-started
+      * https://facebook.github.io/react-native/docs/components-and-apis
 
 * 프로젝트 생성
     * node -v
