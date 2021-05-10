@@ -25,3 +25,6 @@
         * https://docs.expo.io/workflow/ios-simulator/
 
 * 터미널에서 npm start -> a (Android Emulator restart)
+
+* 디버깅
+   * Android : ctrl + m
