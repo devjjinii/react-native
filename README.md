@@ -28,3 +28,8 @@
 
 * 디버깅
    * Android : ctrl + m
+
+* 필요하면 설치 
+   * expo install expo-app-loading
+      * import { AppLoading } from 'expo';  import 안될 경우 -->  import AppLoading from 'expo-app-loading'
+   * expo install expo-font 
