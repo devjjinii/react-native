@@ -1,0 +1,18 @@
+import React from 'react';
+import { View, Text } from 'react-native';
+
+const MealDetailScreen = props => {
+    return (
+        <View style={styles.screen}>
+            <Text>The MealDetail Screen!</Text>
+        </View>
+    );
+};
+
+const styles = StyleSheet.create({
+    screen: {
+
+    },
+});
+
+export default MealDetailScreen;
