@@ -33,3 +33,4 @@
    * expo install expo-app-loading
       * import { AppLoading } from 'expo';  import 안될 경우 -->  import AppLoading from 'expo-app-loading'
    * expo install expo-font 
+   * npm i @expo/vector-icons
