@@ -33,4 +33,5 @@
    * expo install expo-app-loading
       * import { AppLoading } from 'expo';  import 안될 경우 -->  import AppLoading from 'expo-app-loading'
    * expo install expo-font 
-   * npm i @expo/vector-icons
+   * npm i react-native-vector-icons
+      * import Icon from 'react-native-vector-icons/Ionicons'; -->  `<Icon name="원하는class" size={24} color="white"/>`
