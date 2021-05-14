@@ -6,6 +6,8 @@
     * 도움이 되는 링크
       * https://facebook.github.io/react-native/docs/getting-started
       * https://facebook.github.io/react-native/docs/components-and-apis
+    * React Navigation Docs
+      * https://reactnavigation.org/docs/getting-started
 
 * 프로젝트 생성
     * node -v
