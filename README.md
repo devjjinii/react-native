@@ -42,3 +42,4 @@
    * npm install react-navigation-stack  
       * import { createStackNavigator } from 'react-navigation-stack';
    * npm install react-native-screen
+   * npm install react-navigation-header-buttons
