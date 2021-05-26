@@ -38,7 +38,7 @@
    * npm install react-native-vector-icons
       * import Icon from 'react-native-vector-icons/Ionicons'; -->  `<Icon name="원하는class" size={24} color="white"/>`
    * npm install react-navigation
-   * expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+   * npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
    * npm install react-navigation-stack  
       * import { createStackNavigator } from 'react-navigation-stack';
    * npm install react-native-screen
