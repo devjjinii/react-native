@@ -51,3 +51,4 @@
       * npm install @react-navigation/bottom-tabs
       * npm install @react-navigation/stack
    * React Navigation ---> 4.X 버전  ---> npm install react-navigation ... 으로 진행
+   * npm install react-native-paper
