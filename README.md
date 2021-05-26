@@ -50,3 +50,4 @@
           * npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
       * npm install @react-navigation/bottom-tabs
       * npm install @react-navigation/stack
+   * React Navigation ---> 4.X 버전  ---> npm install react-navigation ... 으로 진행
