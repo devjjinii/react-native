@@ -37,9 +37,16 @@
    * expo install expo-font 
    * npm install react-native-vector-icons
       * import Icon from 'react-native-vector-icons/Ionicons'; -->  `<Icon name="원하는class" size={24} color="white"/>`
-   * npm install react-navigation
-   * npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
-   * npm install react-navigation-stack  
-      * import { createStackNavigator } from 'react-navigation-stack';
-   * npm install react-native-screen
-   * npm install react-navigation-header-buttons
+   * React Navigation  --> 5.X 버전
+       ```js
+      react-navigation -> @react-navigation/native
+      react-navigation-stack -> @react-navigation/stack
+      react-navigation-tabs -> @react-navigation/bottom-tabs, @react-navigation/material-top-tabs
+      react-navigation-material-bottom-tabs -> @react-navigation/material-bottom-tabs
+      react-navigation-drawer -> @react-navigation/drawer
+       ``` 
+      * npm install @react-navigation/native
+          * expo install react-native-gesture-handler react-native-reanimated react-native-screens react-native-safe-area-context @react-native-community/masked-view
+          * npm install react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+      * npm install @react-navigation/bottom-tabs
+      * npm install @react-navigation/stack
