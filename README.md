@@ -1,14 +1,16 @@
 ## 리액트 네이티브
 
-* https://www.udemy.com/course/react-native-the-practical-guide/
-    * Expo
-        * https://expo.io/
-    * 도움이 되는 링크
+* APP 다운 (Expo Go)
+   * 프로젝트 터미널 > expo login 
+   * Expo
+      * https://expo.io/
+   * 도움이 되는 링크
       * https://facebook.github.io/react-native/docs/getting-started
       * https://facebook.github.io/react-native/docs/components-and-apis
-    * React Navigation Docs
+   * React Navigation Docs
       * https://reactnavigation.org/docs/getting-started
-
+---
+* https://www.udemy.com/course/react-native-the-practical-guide/
 * 프로젝트 생성
     * node -v
     * npm -v
