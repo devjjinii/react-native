@@ -10,7 +10,10 @@
    * React Navigation Docs
       * https://reactnavigation.org/docs/getting-started
 ---
-* https://www.udemy.com/course/react-native-the-practical-guide/
+* ⭐인강⭐
+   * https://www.udemy.com/course/react-native-the-practical-guide/
+   * https://www.nomadcoders.co/react-native-for-beginners
+
 * 프로젝트 생성
     * node -v
     * npm -v
