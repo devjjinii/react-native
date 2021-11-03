@@ -2,10 +2,10 @@ import React, { useState, useEffect } from 'react';
 import { View, Text, Dimensions, ActivityIndicator ,StyleSheet, ScrollView } from 'react-native';
 import * as Location from 'expo-location';
 import { Fontisto } from '@expo/vector-icons';
+import { key } from './apikey';
 
 const { width: SCREEN_WIDTH } = Dimensions.get("window");
 
-const key = "";
 // console.log(SCREEN_WIDTH);
 // console.log(height);
 

@@ -63,3 +63,4 @@
 * 날씨 API 
    * https://openweathermap.org/api
    * https://openweathermap.org/api/one-call-api
+* expo install @react-native-async-storage/async-storage
