@@ -9,6 +9,7 @@
       * https://facebook.github.io/react-native/docs/components-and-apis
    * React Navigation Docs
       * https://reactnavigation.org/docs/getting-started
+      * https://reactnative.dev/
 ---
 * ⭐인강⭐
    * https://www.udemy.com/course/react-native-the-practical-guide/
@@ -57,3 +58,8 @@
       * npm install @react-navigation/stack
    * React Navigation ---> 4.X 버전  ---> npm install react-navigation ... 으로 진행
    * npm install react-native-paper
+---
+* expo install expo-location
+* 날씨 API 
+   * https://openweathermap.org/api
+   * https://openweathermap.org/api/one-call-api
